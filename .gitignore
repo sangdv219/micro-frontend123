@@ -1,2 +1,5 @@
 *.log
-node_modules/
+./about/node_modules/
+./home/node_modules/
+./about/yarn.lock
+./home/yarn.lock
